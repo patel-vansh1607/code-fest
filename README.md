@@ -1,7 +1,7 @@
 # ⚛️ April Code-Fest – React Edition
 
 **One Day, One Project | April 1st – April 30th, 2025**  
-Organized by: **[Vansh Patel](https://github.com/vanshpatel)**
+Organized by: **[Vansh Patel](https://github.com/patel-vansh1607)**
 
 ---
 
@@ -36,48 +36,59 @@ Participants worked hand-in-hand with:
 
 ## 👨‍💻 Organized & Coordinated by
 
-- **[Vansh Patel](https://github.com/vanshpatel)** – Organizer & Developer
+<div style="text-align: center;">
+    <a href="https://github.com/patel-vansh1607" target="_blank">
+      <img src="./images/vansh.jpg" width="100" height="100" style="border-radius: 50%" alt="Vansh Patel"/>
+    </a>
+    <br/>
+    <strong>Vansh Patel</strong><br/>
+    Organizer & Student
+  </div>
 
 ---
+## 👨‍🏫 Mentored by
 
+<div style="text-align: center;">
+    <a href="https://github.com/josephkipkemoi" target="_blank">
+      <img src="./images/mr-joseph.png" width="100" height="100" style="border-radius: 50%" alt="Mr Joseph"/>
+    </a>
+    <br/>
+    <strong>Mr Joseph</strong><br/>
+    Mentor
+  </div>
+
+---
 ## 🤝 Contributors
 
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+  
+
   <div style="text-align: center;">
-    <a href="https://github.com/vanshpatel" target="_blank">
-      <img src="https://github.com/vanshpatel.png" width="100" height="100" style="border-radius: 50%" alt="Vansh Patel"/>
+    <a href="https://github.com/M-Saleh-N" target="_blank">
+      <img src="./images/saleh.jpg" width="100" height="100" style="border-radius: 50%" alt="Saleh"/>
     </a>
     <br/>
-    <strong>Vansh Patel</strong><br/>
-    Organizer / React Dev
+    <strong>Saleh Nassor</strong><br/>
+    Student
   </div>
 
   <div style="text-align: center;">
-    <a href="https://github.com/dev1" target="_blank">
-      <img src="https://github.com/dev1.png" width="100" height="100" style="border-radius: 50%" alt="Dev One"/>
+    <a href="https://github.com/Patel-anshj1022" target="_blank">
+      <img src="./images/ansh.jpg" width="100" height="100" style="border-radius: 50%" alt="Ansh"/>
     </a>
     <br/>
-    <strong>Dev One</strong><br/>
-    React Developer
+    <strong>Ansh Patel</strong><br/>
+    Student
   </div>
 
   <div style="text-align: center;">
-    <a href="https://github.com/dev2" target="_blank">
-      <img src="https://github.com/dev2.png" width="100" height="100" style="border-radius: 50%" alt="Dev Two"/>
+    <a href="https://github.com/Eshhaa11" target="_blank">
+      <img src="./images/esha.jpg" width="100" height="100" style="border-radius: 50%" alt="Esha"/>
     </a>
     <br/>
-    <strong>Dev Two</strong><br/>
-    React Developer
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/dev3" target="_blank">
-      <img src="https://github.com/dev3.png" width="100" height="100" style="border-radius: 50%" alt="Dev Three"/>
-    </a>
-    <br/>
-    <strong>Dev Three</strong><br/>
-    React Developer
+    <strong>Esha Patel</strong><br/>
+    Student
   </div>
 
 </div>
